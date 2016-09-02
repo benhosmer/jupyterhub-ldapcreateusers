@@ -1,4 +1,6 @@
-Docs to follow
+**Docs to follow**
+
+**Not Complete**
 
 # jupyterhub config file
 c.JupyterHub.authenticator_class = 'ldapcreateusers.LocalLDAPCreateUsers'
